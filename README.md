@@ -1,4 +1,5 @@
-# Siakad Siswa ![Open Source Love](https://www.mushlihun.github.io)&nbsp;![Hits](https://github.com/mushlihun/siakadsiswa)
+# Siakad Siswa<a href="https://www.paypal.me/mushlihun"><img src="https://img.shields.io/badge/Donate-PayPal-green.svg" alt="paypal"/></a>
+[![GitHub: @mushlihun](https://img.shields.io/github/followers/mushlihun?label=follow&style=social)](https://github.com/mushlihun/siakadsiswa)
 
 **SiakadSiswa** is an system information that can be used by school or other to help them manage their academic data. This system was created by CodeIgniter 3.1.5
 
